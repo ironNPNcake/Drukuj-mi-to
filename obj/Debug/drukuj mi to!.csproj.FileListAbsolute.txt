@@ -1,0 +1,9 @@
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\bin\Debug\drukuj mi to!.exe.config
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\bin\Debug\drukuj mi to!.exe
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\bin\Debug\drukuj mi to!.pdb
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\obj\Debug\drukuj mi to!.csprojResolveAssemblyReference.cache
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\obj\Debug\drukuj_mi_to_.Form1.resources
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\obj\Debug\drukuj_mi_to_.Properties.Resources.resources
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\obj\Debug\drukuj mi to!.csproj.GenerateResource.Cache
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\obj\Debug\drukuj mi to!.exe
+H:\Projekty\c#\drukuj mi to!\drukuj mi to!\obj\Debug\drukuj mi to!.pdb
